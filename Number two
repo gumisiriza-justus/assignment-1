@@ -1,0 +1,3 @@
+i) float do_it(char a,char b,char c);
+ii)void print_msg(void);
+iii)when calling the function in the main function print msg(); should be used instead of print msg(this is a message to print);
